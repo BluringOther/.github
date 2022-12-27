@@ -19,3 +19,5 @@
 #### 3. Step2  
 * Input: 블러 처리 원하는 사진, 사진 내 얼굴의 위치, 블러 처리 대상 여부  
 * Output: 블러 처리 완료된 사진  
+
+#### [관련기사](https://youtube.com/watch?v=SHQF5vV291k&feature=shares)
