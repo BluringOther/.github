@@ -21,3 +21,6 @@
 * Output: 블러 처리 완료된 사진  
 
 #### [관련기사](https://youtube.com/watch?v=SHQF5vV291k&feature=shares)
+
+### Face Detection Model : MTCNN
+### Face Recognition Model : FaceNet
